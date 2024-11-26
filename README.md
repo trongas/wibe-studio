@@ -46,5 +46,5 @@ Hosting: GitHub Pages
 Feel free to reach out if you have questions or feedback!
 
 📩 Email: trongdinh07@gmail.com
-🌐 Portfolio: Your Portfolio Link
+🌐 Portfolio: [Your Portfolio Link](https://www.facebook.com/profile.php?id=100051938359303)
 🌟 If you find this project helpful, give it a ⭐ on GitHub!
