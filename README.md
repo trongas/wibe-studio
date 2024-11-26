@@ -1,7 +1,7 @@
 Wibe Studio
 🎨 A modern and responsive web studio built with React.js.
 
-🔗 **Live Preview**: [Click here to see the live site!](https://trongas.github.io/wibe-studio/)
+🔗 **Live Preview**: [Wibe-Studio](https://trongas.github.io/wibe-studio/)
 
 📸 Screenshots
 ### Home Page 🏠
